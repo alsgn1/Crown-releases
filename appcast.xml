@@ -1,11 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Crown</title>
         <link>https://github.com/alsgn1/Crown-releases</link>
         <description>Crown 업데이트</description>
         <language>ko</language>
+        <item>
+            <title>Crown 0.7.1</title>
+            <pubDate>Sun, 04 Oct 2026 09:47:58 +0900</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+- 노치의 막대가 실제 음악 소리에 맞춰 움직이고, 앨범 커버 색으로 보여요.
+- Spotify·Apple Music은 설정 → 지금 재생 중에서 '오디오 캡처 허용'을 한 번 눌러 주세요.
+- YouTube 음악 탭은 브라우저의 Crown 확장 프로그램 버튼을 눌러 켜요.
+- 가사 기능을 뺐어요.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.7.1/Crown-0.7.1.dmg" length="4960011" type="application/octet-stream" sparkle:edSignature="mvm3eKAQ0BTLmpmXY05TzStBc3e0SoYXjxNvDe5T65iP13YjOziNTBteNrD2IQDHjb+TG30IMZO6T655wm2iCg=="></enclosure>
+        </item>
         <item>
             <title>Crown 0.7.0</title>
             <pubDate>Sun, 04 Oct 2026 02:03:37 +0900</pubDate>
@@ -20,7 +36,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.7.0/Crown-0.7.0.dmg" length="4869435" type="application/octet-stream" sparkle:edSignature="7IG0tfDhP1weSFj21gccupOYthxLugMa6+pJgFX34e6YnGc8o8ns8V7ENVsYoK5+QeVYo2YLQCLDz0aSD1JvDg=="></enclosure>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: +8IjNYdm3fDm8iR2Cs8s+aqRUqd0KjLOldaAaq9bz/J8s2de0WWyi54VhQMx5UvOfS9ZD/tmyzs8rKUh/49lBA==
-length: 1615
+</rss>
+<!-- sparkle-signatures:
+edSignature: InOsq1S7Bq+YSVs/n+EeQf1ufPR+C3tp0pdlbF65iIjEgSjyK0CuZ2vN/xt8CQorS81WV55QdkOVOVYUDhOdDw==
+length: 2656
 -->
