@@ -9,6 +9,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.7.3</title>
+            <pubDate>Tue, 06 Oct 2026 13:30:11 +0900</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+- AirPods 이어폰 배터리를 L·R 두 줄의 가로 막대와 각각의 잔량으로 보여요.
+- 케이스는 옆에 작은 아이콘과 단일 막대로 표시해요.
+- 음악 화면과 연결 알림에서 좌우 잔량을 바로 확인할 수 있어요. 한쪽 잔량을 읽지 못하면 0% 대신 —로 표시해요.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.7.3/Crown-0.7.3.dmg" length="4973720" type="application/octet-stream" sparkle:edSignature="a4OBMmeSBEsZD8K1DdvChzf2heVrmLrrad64nXKUYZ5HKOEykCJNI4waP003d+7BXsss4hnmCsQw8qb2LV/7AA=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.7.2</title>
             <pubDate>Tue, 06 Oct 2026 12:27:47 +0900</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -52,6 +65,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: PZW2rXTvZVeiqV5ABk7VrGNcSm2UsgTKK0IL1m2tigreqthK8BglqWIxPfAlEda23EhZvYd0YQJkmfyiXwI6Bg==
-length: 3768
+edSignature: q1xU7TuSSLI6selyK7lII2U6ntbHSDp9gEGluEbfxyl470PBldhUdTI9EDm+ynNakE77yTc4wpautXcwSWyQCQ==
+length: 4793
 -->
