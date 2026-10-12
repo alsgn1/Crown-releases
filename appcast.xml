@@ -9,6 +9,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.8.12</title>
+            <pubDate>Mon, 12 Oct 2026 11:54:42 +0900</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.8.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.8.12
+
+- 처음 설치하면 노치 팝업에 음악과 상태만 표시하며, 나머지 메뉴는 원하는 항목을 직접 켤 수 있습니다.
+- 노크 기능은 기본으로 꺼져 있고, 사용자가 켤 때만 동작합니다.
+- 팝업과 설정창의 알림 목록을 더 읽기 쉽게 정리하고 표시 동작을 개선했습니다.
+- 기존 설정을 유지하며 팝업 조작과 앱 내부 기능의 안정성을 개선했습니다.
+
+macOS 14 이상에서 Apple Silicon과 Intel Mac을 지원합니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.8.12/Crown-0.8.12.dmg" length="7908360" type="application/octet-stream" sparkle:edSignature="vwG/XzN8ZGqbw5Xnw5IPE3++dDDrRiSyn8gMCoEaqOwMv8DyiCkyQmLuIanMlJ9T5o194kmtRQ5VZkVediHiBw=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.7.3</title>
             <pubDate>Tue, 06 Oct 2026 13:30:11 +0900</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -65,6 +83,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: q1xU7TuSSLI6selyK7lII2U6ntbHSDp9gEGluEbfxyl470PBldhUdTI9EDm+ynNakE77yTc4wpautXcwSWyQCQ==
-length: 4793
+edSignature: QjN7TBnGSn+9LMCDUgKddK1ERJchkCBPxdeuz90gZrKIDmAaSQJTbx+F0N+LmWXLfgQzFxNmyKwKUHTBAw33DA==
+length: 6025
 -->
