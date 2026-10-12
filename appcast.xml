@@ -9,6 +9,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.9.2</title>
+            <pubDate>Mon, 12 Oct 2026 21:36:51 +0900</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.9.2
+
+- 설정의 아일랜드 표시 방식을 제거하고 노치 미리보기만 남겼습니다.
+- 기존 아일랜드 설정은 노치 방식으로 자동 전환됩니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.9.2/Crown-0.9.2.dmg" length="7923828" type="application/octet-stream" sparkle:edSignature="Yfr0nQLF5nBNBYFPDFjx7btFMXMDeG9lBKiJo3INUJOdgbCBxWbWa5tiaun+IwbPKM81gMFaLF/y01Oaro6eBQ=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.9.1</title>
             <pubDate>Mon, 12 Oct 2026 21:23:07 +0900</pubDate>
             <sparkle:version>34</sparkle:version>
@@ -103,6 +117,6 @@ macOS 14 이상에서 Apple Silicon과 Intel Mac을 지원합니다.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: RetyQoZCJIL6h6cc5S5mmnjZYkSot+qH94xWA/MKuu+2HGxSVLeDF0pwRLOnU3j/uIsFs9tY/ojom93HAV/SDA==
-length: 7560
+edSignature: z2bF/mr56b5Udc+tf1C9ffm3rme8bfhv1rh9whzc5/RX37/z2bUHJ8GI25iwOa7msjsIXWQ4ceeCv4UOqNdoAQ==
+length: 8445
 -->
