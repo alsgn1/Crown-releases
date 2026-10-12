@@ -9,6 +9,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.9.1</title>
+            <pubDate>Mon, 12 Oct 2026 21:23:07 +0900</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.9.1
+
+- 상태와 네트워크를 독립된 노치 메뉴로 나눴습니다. 설정창에서는 상태·배터리·네트워크를 별도 카드로 확인할 수 있습니다.
+- CPU·GPU 사용량, 메모리와 저장공간을 실시간으로 확인할 수 있습니다.
+- Mac 배터리와 연결된 기기의 배터리는 설정창에서 확인할 수 있습니다.
+- 네트워크 메뉴에서 현재 전송량을 보고 다운로드·업로드 속도와 지연 시간을 직접 측정할 수 있습니다.
+- 상태 화면의 스피커 조절을 제거했습니다.
+- 알림을 개별 삭제하거나, 읽은 알림만 전체 삭제할 수 있습니다. 읽지 않은 알림은 전체 삭제 후에도 남습니다.
+
+일부 환경에서는 업데이트 후 macOS 오디오 캡처 승인이 다시 필요할 수 있습니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.9.1/Crown-0.9.1.dmg" length="7906496" type="application/octet-stream" sparkle:edSignature="T9YbmjIiT5r4DAbRziJjwCPExO2cX9cKKY4Xfx24kfE43yJ3v6k1gj6IhoUbw78UPnC7teNS3qO8PNa15LXzBg=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.8.12</title>
             <pubDate>Mon, 12 Oct 2026 11:54:42 +0900</pubDate>
             <sparkle:version>32</sparkle:version>
@@ -83,6 +103,6 @@ macOS 14 이상에서 Apple Silicon과 Intel Mac을 지원합니다.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: QjN7TBnGSn+9LMCDUgKddK1ERJchkCBPxdeuz90gZrKIDmAaSQJTbx+F0N+LmWXLfgQzFxNmyKwKUHTBAw33DA==
-length: 6025
+edSignature: RetyQoZCJIL6h6cc5S5mmnjZYkSot+qH94xWA/MKuu+2HGxSVLeDF0pwRLOnU3j/uIsFs9tY/ojom93HAV/SDA==
+length: 7560
 -->
