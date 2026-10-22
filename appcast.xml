@@ -9,6 +9,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.10.6</title>
+            <pubDate>Fri, 23 Oct 2026 03:57:34 +0900</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.10.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.10.6
+
+- 허용이 필요한 권한이 남아 있어도 노치에는 더 이상 경고가 뜨지 않습니다. 대신 설정 창의 시작하기 화면에 빨간 "권한 허용 필요" 안내가 보이고, 사이드바의 권한 메뉴에 남은 개수가 표시됩니다.
+- 안내를 누르면 권한 화면으로 바로 이동합니다. 설정 창을 닫아 두면 권한 상태를 따로 확인하지 않아 더 가볍게 동작합니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.6/Crown-0.10.6.dmg" length="10170271" type="application/octet-stream" sparkle:edSignature="O57oUOe9/luW72zIF1Y25IbdT1Dg5E9VKC0CjmZU76sN/NHxc72qvsc58SJQ2mg50ASYcCDRQzncBZVmMmmwAw=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.10.5</title>
             <pubDate>Fri, 23 Oct 2026 03:50:08 +0900</pubDate>
             <sparkle:version>41</sparkle:version>
@@ -159,22 +173,9 @@ macOS 14 이상에서 Apple Silicon과 Intel Mac을 지원합니다.
 ]]></description>
             <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.8.12/Crown-0.8.12.dmg" length="7908360" type="application/octet-stream" sparkle:edSignature="vwG/XzN8ZGqbw5Xnw5IPE3++dDDrRiSyn8gMCoEaqOwMv8DyiCkyQmLuIanMlJ9T5o194kmtRQ5VZkVediHiBw=="></enclosure>
         </item>
-        <item>
-            <title>Crown 0.7.3</title>
-            <pubDate>Tue, 06 Oct 2026 13:30:11 +0900</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[
-- AirPods 이어폰 배터리를 L·R 두 줄의 가로 막대와 각각의 잔량으로 보여요.
-- 케이스는 옆에 작은 아이콘과 단일 막대로 표시해요.
-- 음악 화면과 연결 알림에서 좌우 잔량을 바로 확인할 수 있어요. 한쪽 잔량을 읽지 못하면 0% 대신 —로 표시해요.
-]]></description>
-            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.7.3/Crown-0.7.3.dmg" length="4973720" type="application/octet-stream" sparkle:edSignature="a4OBMmeSBEsZD8K1DdvChzf2heVrmLrrad64nXKUYZ5HKOEykCJNI4waP003d+7BXsss4hnmCsQw8qb2LV/7AA=="></enclosure>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: cngqS0l5vtDQ+h3ckcPLedrFAjRze8NW3H0ygcqlTZPax5XndBlXfQly+bA+x5oqJObfdspGUM/LR43nsJg5AQ==
-length: 14898
+edSignature: pRA+vS1f8ChrmPUtet7KkyWuNQ0DOCYNr5/FBh95tIheA9ENsmLdKEKuErSOe/yfl/jFcph2KxFFxLNERHCiDA==
+length: 15028
 -->
