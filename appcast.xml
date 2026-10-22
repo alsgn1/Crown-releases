@@ -9,6 +9,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.10.5</title>
+            <pubDate>Fri, 23 Oct 2026 03:50:08 +0900</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.10.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.10.5
+
+- 설정에 권한 메뉴가 생겼습니다. 오디오 녹음, Spotify·음악 앱 제어, 손쉬운 사용처럼 Crown이 쓰는 권한을 한곳에서 확인하고 바로 허용할 수 있습니다.
+- 허용이 필요한 권한이 남아 있으면 접힌 노치 양옆에 빨간 경고와 남은 개수가 보입니다. 누르면 권한 화면이 열리고, 쓰지 않을 기능은 "사용 안 함"으로 두면 경고에서 빠집니다.
+- 설정 → 모양과 동작에서 "macOS 기본 표시 대신 Crown만 쓰기"를 켜면 음량·밝기 키를 눌러도 macOS 기본 표시 없이 노치 배너만 나옵니다. 손쉬운 사용 권한이 필요하고, 밝기는 내장 화면만 조절합니다. Option 키를 함께 누르면 macOS 기본 동작 그대로입니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.5/Crown-0.10.5.dmg" length="10167476" type="application/octet-stream" sparkle:edSignature="b5uFg1ibKLnKGoq8ov1A4KA+gVlkiT4zobE+iKbBZ3MIALyyJ2IEz2/ipOSHVkOh8rNDukjkTJku0YaeGHpzAQ=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.10.4</title>
             <pubDate>Fri, 23 Oct 2026 03:24:36 +0900</pubDate>
             <sparkle:version>40</sparkle:version>
@@ -157,23 +172,9 @@ macOS 14 이상에서 Apple Silicon과 Intel Mac을 지원합니다.
 ]]></description>
             <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.7.3/Crown-0.7.3.dmg" length="4973720" type="application/octet-stream" sparkle:edSignature="a4OBMmeSBEsZD8K1DdvChzf2heVrmLrrad64nXKUYZ5HKOEykCJNI4waP003d+7BXsss4hnmCsQw8qb2LV/7AA=="></enclosure>
         </item>
-        <item>
-            <title>Crown 0.7.2</title>
-            <pubDate>Tue, 06 Oct 2026 12:27:47 +0900</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[
-- AirPods 배터리를 이어폰 한 쌍과 케이스로 묶어 더 간결하게 보여요.
-- 음악 화면과 연결 알림에 아이콘·잔량·얇은 배터리 막대를 같은 디자인으로 표시해요.
-- 이어폰은 좌우 중 낮은 잔량을 표시하고, 마우스를 올리면 개별 잔량을 확인할 수 있어요.
-- 배터리가 15% 이하이면 주황색, 0%이면 빈 막대로 표시해요.
-]]></description>
-            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.7.2/Crown-0.7.2.dmg" length="4963624" type="application/octet-stream" sparkle:edSignature="z1o78EQYQWorFzZCF32K0epoK0+zI4hBXyewTz+tZh7MFugRZbPnoc8BrPRmDL6owiCJFelxdnXUhqL/OeIHDQ=="></enclosure>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: kXPpy9hPC8xzuXrJ7yjZKdwELxePFoe6zwuHi+Cw6DRA4NQfmcUYY4bTeV5IjmRzIVa9jvlHHVjIcaQ81GZaCQ==
-length: 14511
+edSignature: cngqS0l5vtDQ+h3ckcPLedrFAjRze8NW3H0ygcqlTZPax5XndBlXfQly+bA+x5oqJObfdspGUM/LR43nsJg5AQ==
+length: 14898
 -->
