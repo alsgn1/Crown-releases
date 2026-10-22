@@ -9,6 +9,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.10.4</title>
+            <pubDate>Fri, 23 Oct 2026 03:24:36 +0900</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.10.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.10.4
+
+- 음량·밝기를 바꾸면 화면 왼쪽 대신 노치 아래로 넓은 배너가 내려와 기기 이름과 값, 가로 막대를 보여 줍니다. 곡이 바뀔 때 알림과 같은 모양입니다.
+- 키를 누르고 있으면 같은 배너가 값을 따라 움직이고, 그 사이 다른 알림은 잠시 비켰다가 다시 나옵니다.
+- 설정 → 모양과 동작에서 음량·밝기 표시를 켜고 끌 수 있습니다. 화면 옆 표시를 쓰던 분도 자동으로 노치 표시로 바뀝니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.4/Crown-0.10.4.dmg" length="10067799" type="application/octet-stream" sparkle:edSignature="zVp4Gi4nqvlGRDpI8hiyOkyNNo+xH1gVsHumAVwUgqOpI6hz8mkVh+7gR2SLdkoTFXFX9Jj8QHwDVcmuGXlxDQ=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.10.3</title>
             <pubDate>Wed, 21 Oct 2026 00:28:46 +0900</pubDate>
             <sparkle:version>39</sparkle:version>
@@ -156,23 +171,9 @@ macOS 14 이상에서 Apple Silicon과 Intel Mac을 지원합니다.
 ]]></description>
             <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.7.2/Crown-0.7.2.dmg" length="4963624" type="application/octet-stream" sparkle:edSignature="z1o78EQYQWorFzZCF32K0epoK0+zI4hBXyewTz+tZh7MFugRZbPnoc8BrPRmDL6owiCJFelxdnXUhqL/OeIHDQ=="></enclosure>
         </item>
-        <item>
-            <title>Crown 0.7.1</title>
-            <pubDate>Sun, 04 Oct 2026 09:47:58 +0900</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[
-- 노치의 막대가 실제 음악 소리에 맞춰 움직이고, 앨범 커버 색으로 보여요.
-- Spotify·Apple Music은 설정 → 지금 재생 중에서 '오디오 캡처 허용'을 한 번 눌러 주세요.
-- YouTube 음악 탭은 브라우저의 Crown 확장 프로그램 버튼을 눌러 켜요.
-- 가사 기능을 뺐어요.
-]]></description>
-            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.7.1/Crown-0.7.1.dmg" length="4960011" type="application/octet-stream" sparkle:edSignature="mvm3eKAQ0BTLmpmXY05TzStBc3e0SoYXjxNvDe5T65iP13YjOziNTBteNrD2IQDHjb+TG30IMZO6T655wm2iCg=="></enclosure>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: N2ewqjckx+QfuvFSaYeUJuzhkybSm1OZzzcjyTEkYPQZh6ypKiVMrM0XTLYwa9h2oAv5mGuePZahib/dvs8MDA==
-length: 14313
+edSignature: kXPpy9hPC8xzuXrJ7yjZKdwELxePFoe6zwuHi+Cw6DRA4NQfmcUYY4bTeV5IjmRzIVa9jvlHHVjIcaQ81GZaCQ==
+length: 14511
 -->
