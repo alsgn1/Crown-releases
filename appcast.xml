@@ -9,6 +9,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.10.9</title>
+            <pubDate>Tue, 27 Oct 2026 09:27:30 +0900</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.10.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.10.9
+
+- 노치는 항상 표시되고 포인터를 올리면 열립니다. 설정 → 모양과 동작에 있던 노치 카드와 "노치 표시", "포인터를 올리면 열기" 스위치, 사이드바 아래 노치 스위치를 없앴습니다. 예전에 꺼 두었던 분도 다시 켜집니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.9/Crown-0.10.9.dmg" length="9776589" type="application/octet-stream" sparkle:edSignature="y4yZbNjv0benPB7SEEB/USdUJjtDolx30kIpsmdFVGtT4hsxjwAe0eswoBtNUxSbOZbtW/87n4zWPSbIeujVDg=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.10.8</title>
             <pubDate>Fri, 23 Oct 2026 10:26:53 +0900</pubDate>
             <sparkle:version>44</sparkle:version>
@@ -149,23 +162,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.0/Crown-0.10.0.dmg" length="9219086" type="application/octet-stream" sparkle:edSignature="4LO5B932s2HclZcNi9ivZAgqq9lrTSIkQSxb1ZxVSHebz0FuRnGDkqOVsGmS8VL0mtFcL9kJNADQNj3oBigmBA=="></enclosure>
         </item>
-        <item>
-            <title>Crown 0.9.2</title>
-            <pubDate>Mon, 12 Oct 2026 21:36:51 +0900</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[
-# Crown 0.9.2
-
-- 설정의 아일랜드 표시 방식을 제거하고 노치 미리보기만 남겼습니다.
-- 기존 아일랜드 설정은 노치 방식으로 자동 전환됩니다.
-]]></description>
-            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.9.2/Crown-0.9.2.dmg" length="7923828" type="application/octet-stream" sparkle:edSignature="Yfr0nQLF5nBNBYFPDFjx7btFMXMDeG9lBKiJo3INUJOdgbCBxWbWa5tiaun+IwbPKM81gMFaLF/y01Oaro6eBQ=="></enclosure>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: muziDs4D1s27TE0oPhUgB0YTeY5ZVut6C51CT1AAoGhIVglHR+9uYIeJTAwdZxzBxQh9zE6FxpJL0BVMaaZJAQ==
-length: 14416
+edSignature: 76TCeRav6w7lJV3wFQqhRxz+P02aRPktxp4sK4USzzImVMVxMxIIS40Kz2rkO+6zInoKFbL4r+Wyp2DMsZzoCA==
+length: 14543
 -->
