@@ -9,6 +9,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.10.13</title>
+            <pubDate>Wed, 25 Nov 2026 08:56:01 +0900</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.10.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.10.13
+
+- 눈 치우는 꼬마가 이제 손잡이 달린 눈삽으로 눈을 떠서 어깨 너머로 던집니다. 걸을 때는 삽을 어깨에 메고, 쉴 때는 옆에 세워 둡니다.
+- 꼬마가 조금 더 커져서 잘 보입니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.13/Crown-0.10.13.dmg" length="10048773" type="application/octet-stream" sparkle:edSignature="+gqaWBeUGL8LGs6UhI87RRgCjM2Qq3PiMC30ZakR9/I63WcH/CnMLkGkvffaCuU5JocD5hA6+8ObH/V+aEiSDQ=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.10.12</title>
             <pubDate>Wed, 25 Nov 2026 08:49:39 +0900</pubDate>
             <sparkle:version>48</sparkle:version>
@@ -138,25 +152,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.4/Crown-0.10.4.dmg" length="10067799" type="application/octet-stream" sparkle:edSignature="zVp4Gi4nqvlGRDpI8hiyOkyNNo+xH1gVsHumAVwUgqOpI6hz8mkVh+7gR2SLdkoTFXFX9Jj8QHwDVcmuGXlxDQ=="></enclosure>
         </item>
-        <item>
-            <title>Crown 0.10.3</title>
-            <pubDate>Wed, 21 Oct 2026 00:28:46 +0900</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>0.10.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[
-# Crown 0.10.3
-
-- 디자인을 새로 다듬었습니다. 따뜻한 검정 바탕에 샴페인 골드를 포인트로 쓰고, 왕관 모양 로고를 새로 그렸습니다.
-- 설정 창 사이드바를 아이콘 없이 글자와 짧은 묶음 제목으로 정리했습니다. 첫 화면에는 노치 미리보기를 넣고, Mac 상태를 노치와 같은 링으로 보여 줍니다.
-- 노치 위쪽의 메뉴 아이콘을 하나의 캡슐로 묶었습니다. 음악 탭에서는 앨범 색으로 진행 막대와 커버 주변을 은은하게 칠합니다.
-- 팬 제어 도우미는 바뀌지 않아 0.10.2에서 업데이트하면 다시 설치할 필요가 없습니다. 0.10.1 이하에서 팬 서비스를 설치했다면 설정 → 팬 컨트롤 → 팬 제어 설치에서 도우미를 한 번 갱신해 주세요.
-]]></description>
-            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.3/Crown-0.10.3.dmg" length="10096882" type="application/octet-stream" sparkle:edSignature="IEwmsUvbaOegPdP4Eu7V/+x/uN2eLbsdMy8R0f10DPZO5HaTL+7zKCTR9vm4WiuawFAY2VI1pXHJCtU/4n30BQ=="></enclosure>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: MvlExeuhBYKTyMZvuHi0V3e8zkylFGiWmFtOu6Gz4sM13zs+/fCiFb9SUtrIWG2EIdtEBrJqSI5FyLlN5D3NAA==
-length: 13118
+edSignature: KEdYGxpn3SZJyezGHI8qVbhG/giS1no/sbuoZOuzD+denVqmaPeO9hokqMGSWW1SPtAzCYAT3Zs1FMsyMI4fBw==
+length: 12551
 -->
