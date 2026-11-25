@@ -9,6 +9,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.10.14</title>
+            <pubDate>Wed, 25 Nov 2026 09:20:58 +0900</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>0.10.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.10.14
+
+- 창을 옮겨 꼬마 머리 위로 눈이 떨어지면 꼬마가 우산을 펴서 막습니다.
+- 눈이 많이 쌓이면 꼬마가 두 팔을 번쩍 들어 작은 제설차를 불러내 타고 다니며 눈을 치웁니다. 한동안 치운 뒤에는 내려서 손을 흔들고, 제설차는 반짝이며 사라집니다. 그 뒤에는 다시 삽으로 치웁니다.
+- 제설차는 눈사람 앞에서 방향을 돌려 눈사람을 밀고 지나가지 않습니다.
+- Chrome 등에서 영상을 전체화면으로 볼 때 화면 가운데 위쪽에 고드름이나 눈이 생기던 문제를 고쳤습니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.14/Crown-0.10.14.dmg" length="10024887" type="application/octet-stream" sparkle:edSignature="t5GnOxfhMecAdsTFFMQI5/wv8CYdmvEZD4OiJbuX7dmbWjF7g0D7zhUUKzmFTLfx5ZHomiak1FxanWyEnGE2Bg=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.10.13</title>
             <pubDate>Wed, 25 Nov 2026 08:56:01 +0900</pubDate>
             <sparkle:version>49</sparkle:version>
@@ -137,24 +153,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.5/Crown-0.10.5.dmg" length="10167476" type="application/octet-stream" sparkle:edSignature="b5uFg1ibKLnKGoq8ov1A4KA+gVlkiT4zobE+iKbBZ3MIALyyJ2IEz2/ipOSHVkOh8rNDukjkTJku0YaeGHpzAQ=="></enclosure>
         </item>
-        <item>
-            <title>Crown 0.10.4</title>
-            <pubDate>Fri, 23 Oct 2026 03:24:36 +0900</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>0.10.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[
-# Crown 0.10.4
-
-- 음량·밝기를 바꾸면 화면 왼쪽 대신 노치 아래로 넓은 배너가 내려와 기기 이름과 값, 가로 막대를 보여 줍니다. 곡이 바뀔 때 알림과 같은 모양입니다.
-- 키를 누르고 있으면 같은 배너가 값을 따라 움직이고, 그 사이 다른 알림은 잠시 비켰다가 다시 나옵니다.
-- 설정 → 모양과 동작에서 음량·밝기 표시를 켜고 끌 수 있습니다. 화면 옆 표시를 쓰던 분도 자동으로 노치 표시로 바뀝니다.
-]]></description>
-            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.4/Crown-0.10.4.dmg" length="10067799" type="application/octet-stream" sparkle:edSignature="zVp4Gi4nqvlGRDpI8hiyOkyNNo+xH1gVsHumAVwUgqOpI6hz8mkVh+7gR2SLdkoTFXFX9Jj8QHwDVcmuGXlxDQ=="></enclosure>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: KEdYGxpn3SZJyezGHI8qVbhG/giS1no/sbuoZOuzD+denVqmaPeO9hokqMGSWW1SPtAzCYAT3Zs1FMsyMI4fBw==
-length: 12551
+edSignature: pf3q+Cq5z1aQwoXknnI6MxWQd15OFFcRf+l4u7qkRPZlcwuw09CRtoEkm2aoOsaxs8gr3lIMOXqZUhTSc2f6Dw==
+length: 12652
 -->
