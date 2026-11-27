@@ -9,6 +9,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.10.16</title>
+            <pubDate>Fri, 27 Nov 2026 14:22:53 +0900</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>0.10.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.10.16
+
+- 앱을 전체화면으로 쓰거나 영상을 전체화면으로 볼 때는 눈, 고드름, 꼬마가 모두 보이지 않습니다. 데스크톱으로 돌아오면 쌓여 있던 눈 그대로 다시 내립니다.
+- 제목 막대를 더블클릭해 화면 가득 키운 창 위에도 눈이 쌓입니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.16/Crown-0.10.16.dmg" length="10340421" type="application/octet-stream" sparkle:edSignature="ETJANC/C5YTMyIfzx6nPsGibnRKWZRl58xzU6xIqWUdC5pXAIkWALjtuRlqcnSkapvJzJXuSgbEArTuU+FgvCw=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.10.15</title>
             <pubDate>Fri, 27 Nov 2026 13:40:11 +0900</pubDate>
             <sparkle:version>51</sparkle:version>
@@ -138,23 +152,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.7/Crown-0.10.7.dmg" length="10165569" type="application/octet-stream" sparkle:edSignature="Of4SoTtVw3ZXy7andbHwDiHN25tXlD08mDInUpSq9UQJoh/R3n8X5hMfMh79cXHwRPwRs5IqhzIqJ2F1CkkvBA=="></enclosure>
         </item>
-        <item>
-            <title>Crown 0.10.6</title>
-            <pubDate>Fri, 23 Oct 2026 03:57:34 +0900</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>0.10.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[
-# Crown 0.10.6
-
-- 허용이 필요한 권한이 남아 있어도 노치에는 더 이상 경고가 뜨지 않습니다. 대신 설정 창의 시작하기 화면에 빨간 "권한 허용 필요" 안내가 보이고, 사이드바의 권한 메뉴에 남은 개수가 표시됩니다.
-- 안내를 누르면 권한 화면으로 바로 이동합니다. 설정 창을 닫아 두면 권한 상태를 따로 확인하지 않아 더 가볍게 동작합니다.
-]]></description>
-            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.6/Crown-0.10.6.dmg" length="10170271" type="application/octet-stream" sparkle:edSignature="O57oUOe9/luW72zIF1Y25IbdT1Dg5E9VKC0CjmZU76sN/NHxc72qvsc58SJQ2mg50ASYcCDRQzncBZVmMmmwAw=="></enclosure>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: JxQHXteSdUAEgKxTQtzv5V8j5WKWJCo4J06kCRIr2sJC0gfzDlx1GDX+ECCEltPlUNO6FlMwCo+3p8O66z+cDQ==
-length: 12212
+edSignature: UymF25TH7mYwIQaiXCl4Wa7CihnRCRpJils/MKFKe231eJifE/M0ibpXuVNmO2waQoA77oVzl37GSCkJh+DOCQ==
+length: 12089
 -->
