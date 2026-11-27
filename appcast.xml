@@ -9,6 +9,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Crown 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Crown 0.10.15</title>
+            <pubDate>Fri, 27 Nov 2026 13:40:11 +0900</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.10.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+# Crown 0.10.15
+
+- 눈의 양을 "많이"로 두면 꼬마가 제설차를 더 자주 불러내고, 한 번 타면 더 오래 치웁니다.
+- 제설차가 지나가는 길에 눈사람이 있으면 눈사람이 깡충 뛰어올라 길을 비켜 줍니다. 몸을 웅크렸다가 뛰고, 세 덩이가 조금씩 따로 움직이다 내려앉습니다.
+]]></description>
+            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.15/Crown-0.10.15.dmg" length="10014484" type="application/octet-stream" sparkle:edSignature="JZJurxjfkXtYXbvgG5GLwye3kJyVf+fG+jsx6XGLHG8FF0iI/PmZTlydD3VKiE4Qr0n1zfI9PiG2aHQsg48TAQ=="></enclosure>
+        </item>
+        <item>
             <title>Crown 0.10.14</title>
             <pubDate>Wed, 25 Nov 2026 09:20:58 +0900</pubDate>
             <sparkle:version>50</sparkle:version>
@@ -138,24 +152,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.6/Crown-0.10.6.dmg" length="10170271" type="application/octet-stream" sparkle:edSignature="O57oUOe9/luW72zIF1Y25IbdT1Dg5E9VKC0CjmZU76sN/NHxc72qvsc58SJQ2mg50ASYcCDRQzncBZVmMmmwAw=="></enclosure>
         </item>
-        <item>
-            <title>Crown 0.10.5</title>
-            <pubDate>Fri, 23 Oct 2026 03:50:08 +0900</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>0.10.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[
-# Crown 0.10.5
-
-- 설정에 권한 메뉴가 생겼습니다. 오디오 녹음, Spotify·음악 앱 제어, 손쉬운 사용처럼 Crown이 쓰는 권한을 한곳에서 확인하고 바로 허용할 수 있습니다.
-- 허용이 필요한 권한이 남아 있으면 접힌 노치 양옆에 빨간 경고와 남은 개수가 보입니다. 누르면 권한 화면이 열리고, 쓰지 않을 기능은 "사용 안 함"으로 두면 경고에서 빠집니다.
-- 설정 → 모양과 동작에서 "macOS 기본 표시 대신 Crown만 쓰기"를 켜면 음량·밝기 키를 눌러도 macOS 기본 표시 없이 노치 배너만 나옵니다. 손쉬운 사용 권한이 필요하고, 밝기는 내장 화면만 조절합니다. Option 키를 함께 누르면 macOS 기본 동작 그대로입니다.
-]]></description>
-            <enclosure url="https://github.com/alsgn1/Crown-releases/releases/download/v0.10.5/Crown-0.10.5.dmg" length="10167476" type="application/octet-stream" sparkle:edSignature="b5uFg1ibKLnKGoq8ov1A4KA+gVlkiT4zobE+iKbBZ3MIALyyJ2IEz2/ipOSHVkOh8rNDukjkTJku0YaeGHpzAQ=="></enclosure>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: pf3q+Cq5z1aQwoXknnI6MxWQd15OFFcRf+l4u7qkRPZlcwuw09CRtoEkm2aoOsaxs8gr3lIMOXqZUhTSc2f6Dw==
-length: 12652
+edSignature: JxQHXteSdUAEgKxTQtzv5V8j5WKWJCo4J06kCRIr2sJC0gfzDlx1GDX+ECCEltPlUNO6FlMwCo+3p8O66z+cDQ==
+length: 12212
 -->
